@@ -1,4 +1,4 @@
-module github.com/fengjihua/xorm-adapter
+module github.com/fengjihua/xorm-adapter/v2
 
 go 1.12
 
